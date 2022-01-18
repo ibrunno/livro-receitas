@@ -3,5 +3,4 @@
 Olá, bem vindo ao meu livro de receitas:palm_tree:
 
 - Strogonoff de frango:chicken:
-- Pave
-
+- Pavê
